@@ -3,3 +3,5 @@
 https://www.udemy.com/course/estatistica-com-linguagem-r/
 
 Cada seção do curso numa pasta diferente (2-7).
+
+Códigos de autoria de Luciano Galdino <h6>Lattes: <a href="http://lattes.cnpq.br/1964290408536126"></a></h6>
